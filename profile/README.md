@@ -26,7 +26,7 @@
   <li>🔜 & More</li>
 </ul>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect:</h3>
 <p align="center">
   <a href="https://twitter.com/furydotbot" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furydotbot" height="30" width="40" />
