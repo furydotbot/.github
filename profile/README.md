@@ -11,7 +11,7 @@
 
 - 👨‍💻 [Bundler (raydium, pump.fun, moonshot)](Bundler (raydium, pump.fun, moonshot))
 
-- 🚀 [Copytrade](Copytrade)
+- 🚀 [Copytrade]
 
 - 🔎 **Token Sniper**
 
