@@ -29,6 +29,6 @@
 <h3 align="center"></h3>
 <p align="center">
   <a href="https://twitter.com/furydotbot" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="furydotbot" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="furydotbot" height="30" width="40" />
   </a>
 </p>
