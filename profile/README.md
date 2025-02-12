@@ -7,17 +7,17 @@
 
 - We are working on single solution for bots on Solana [https://fury.bot/](https://fury.bot/)
 
-- 📈 Volume Bot **📈 Volume Bot**
+- 📈 Volume Bot
 
-- 👨‍💻 Bundler (raydium, pump.fun, moonshot) [👨‍💻 Bundler (raydium, pump.fun, moonshot)](👨‍💻 Bundler (raydium, pump.fun, moonshot))
+- 👨‍💻 Bundler (raydium, pump.fun, moonshot)
 
-- 🚀 Copytrade [🚀 Copytrade](🚀 Copytrade)
+- 🚀 Copytrade 
 
-- 🔎 Token Sniper **🔎 Token Sniper**
+- 🔎 Token Sniper
 
-- 📄 Smart Profit **📄 Smart Profit**
+- 📄 Smart Profit
 
-- 🔜 & More [🔜 & More](🔜 & More)
+- 🔜 & More
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
