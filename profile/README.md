@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/fMk8fID.jpeg" alt="Fury Banner" width="100%" />
+</p>
+
 <h1 align="center">Hello Fury 🟣</h1>
 <h3 align="center">This is the official profile of the Fury BOT</h3>
 
