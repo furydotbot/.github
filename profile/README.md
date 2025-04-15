@@ -10,25 +10,16 @@
 </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/furydotbot" target="blank">
+  <a href="https://x.com/furydotbot" target="blank">
     <img src="https://img.shields.io/twitter/follow/furydotbot?logo=twitter&style=for-the-badge" alt="furydotbot" />
   </a> 
 </p>
 
 <p align="center">
-  We are working on a single solution for bots on Solana  
+  We are working on a single and open source solution for bots on Solana  
   <br>
   <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
-
-<ul align="center" style="list-style: none; padding: 0;">
-  <li>📈 Volume Bot</li>
-  <li>👨‍💻 Bundler (raydium, pump.fun, moonshot)</li>
-  <li>🚀 Copytrade</li>
-  <li>🔎 Token Sniper</li>
-  <li>📄 Smart Profit</li>
-  <li>🔜 & More</li>
-</ul>
 
 <h3 align="center"></h3>
 <p align="center">
