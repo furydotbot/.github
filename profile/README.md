@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  We are working on a single and open source solution for bots on Solana  
+  We are working on a single and open source solution for Solana bots
   <br>
   <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
