@@ -8,10 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furydotbot&label=Profile%20views&color=952bff&style=flat-square" alt="furydotbot" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-00b386?style=for-the-badge&logo=github" alt="Open Source" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-00b386?style=flat-square&logo=github" alt="Open Source" />
 </p>
 
 <p align="center">
