@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  We are building a single, open-source solution for Solana bots.  
+  Fury provides a set of open-source SDKs designed to simplify web3 development. Whether you're building a trading bot, a trading platform, or a dex tool, our unified API helps you interact with the blockchain.  
   <br>
   <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
