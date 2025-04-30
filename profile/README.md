@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/fMk8fID.jpeg" alt="Fury Banner" width="100%" />
 </p>
 
-
 <h1 align="center">Unleash the Power of Fury 🟣</h1>
 <h3 align="center">This is the official profile of the Fury BOT</h3>
 
@@ -18,7 +17,7 @@
   <br><br>
   🌐 <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
-<br><br>
+
 <p align="center">
   <a href="https://x.com/furydotbot" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Fury on X" />
