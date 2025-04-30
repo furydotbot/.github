@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20on-Solana-3a0ca3?style=for-the-badge&logo=solana" alt="Built on Solana" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-00b386?style=for-the-badge&logo=github" alt="Open Source" />
 </p>
 
