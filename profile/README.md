@@ -15,9 +15,10 @@
 <p align="center">
   Fury provides a set of open-source SDKs designed to simplify web3 development.<br>
   Whether you're building a trading bot, a trading platform, or a DEX tool, our unified API helps you interact with the blockchain.
-  <br>
+  <br><br>
   🌐 <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
+
 
 <p align="center">
   <a href="https://x.com/furydotbot" target="_blank">
