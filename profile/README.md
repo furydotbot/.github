@@ -16,17 +16,29 @@
 </p>
 
 <p align="center">
-  We are working on a single and open source solution for Solana bots
+  We are building a single, open-source solution for Solana bots.  
   <br>
   <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
 
-<h3 align="center"></h3>
 <p align="center">
-  <a href="https://twitter.com/furydotbot" target="blank">
+  <a href="" target="blank">
     <img src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="furydotbot" height="30" width="40" />
   </a>
-  <a href="https://t.me/furybotnews" target="blank">
+  <a href="" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="furybot telegram" height="30" width="40" />
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [`solana-ui`](https://github.com/furydotbot/solana-ui) | Frontend interface for interacting with Fury bots and Solana tools. |
+| [`typescript-sdk`](https://github.com/furydotbot/typescript-sdk) | TypeScript SDK to integrate with Fury bot infrastructure easily. |
+| [`rust-sdk`](https://github.com/furydotbot/rust-sdk) | Native Rust SDK to interact with Fury seamlessly in Solana environments. |
+| [`python-sdk`](https://github.com/furydotbot/python-sdk) | Python SDK for rapid integration with Fury bot services. |
+
+---
