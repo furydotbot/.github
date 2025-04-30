@@ -19,6 +19,7 @@
   🌐 <a href="https://fury.bot/">https://fury.bot/</a>
 </p>
 
+<br><br>
 
 <p align="center">
   <a href="https://x.com/furydotbot" target="_blank">
