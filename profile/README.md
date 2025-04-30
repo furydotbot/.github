@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <a href="https://x.com/furydotbot" target="blank">
-    <img src="https://img.shields.io/twitter/follow/furydotbot?logo=twitter&style=for-the-badge" alt="furydotbot" />
+    <img src="https://img.shields.io/x/follow/furydotbot?logo=x&style=for-the-badge" alt="furydotbot" />
   </a> 
 </p>
 
