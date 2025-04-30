@@ -9,11 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=furydotbot&label=Profile%20views&color=952bff&style=flat-square" alt="furydotbot" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://x.com/furydotbot" target="blank">
-    <img src="https://img.shields.io/x/follow/furydotbot?logo=x&style=for-the-badge" alt="furydotbot" />
-  </a> 
-</p>
+![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-3a0ca3?style=for-the-badge&logo=solana) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-00b386?style=for-the-badge&logo=github)
 
 <p align="center">
   We are building a single, open-source solution for Solana bots.  
