@@ -9,8 +9,10 @@
 </p>
 
 <h1 align="center">Unleash the Power of Fury 🟣</h1>
-<h3 align="center">Fury provides a set of open-source SDKs designed to simplify web3 development.<br>
-  Whether you're building a trading bot, a trading platform, or a DEX tool, our unified API helps you interact with the blockchain.</h3>
+<h3 align="center">
+  Fury provides a set of open-source SDKs designed to simplify web3 development.<br>
+  Whether you're building a trading bot, a trading platform, or a DEX tool, our unified API helps you interact with the blockchain.
+</h3>
 
 <p align="center">
   <a href="https://fury.bot/" target="_blank">
@@ -24,6 +26,9 @@
   </a>
   <a href="https://t.me/furybotnews" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Fury on Telegram" />
+  </a>
+  <a href="https://discord.gg/aqARWPEP3h" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Fury on Discord" />
   </a>
 </p>
 
