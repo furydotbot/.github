@@ -24,7 +24,7 @@
   <a href="https://x.com/furydotbot" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Fury on X" />
   </a>
-  <a href="https://t.me/furybotnews" target="_blank">
+  <a href="https://t.me/furysolana" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Fury on Telegram" />
   </a>
   <a href="https://discord.gg/aqARWPEP3h" target="_blank">
