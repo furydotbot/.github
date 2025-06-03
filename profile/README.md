@@ -60,7 +60,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/furydotbot/solana-ui"><code>solana-ui</code></a></td>
-      <td>Frontend interface for interacting with Fury bots and Solana tools.</td>
+      <td>Frontend interface for interacting with bots and Solana tools.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/furydotbot/typescript-sdk"><code>typescript-sdk</code></a></td>
