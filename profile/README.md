@@ -48,7 +48,7 @@
 
 <hr>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🤝 Built with Fury SDK</h2>
 
 <table align="center">
   <thead>
@@ -60,8 +60,23 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/furydotbot/solana-ui"><code>solana-ui</code></a></td>
-      <td>Frontend interface for interacting with bots and Solana tools.</td>
+      <td>Frontend interface by <strong>Raze.bot</strong> using Fury SDKs to interact with Solana tools and bots.</td>
     </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2 align="center">🧰 Fury SDKs</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">SDK</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href="https://github.com/furydotbot/typescript-sdk"><code>typescript-sdk</code></a></td>
       <td>TypeScript SDK to integrate with Fury bot infrastructure easily.</td>
