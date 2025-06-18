@@ -59,7 +59,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/furydotbot/solana-ui"><code>solana-ui</code></a></td>
+      <td><a href="https://github.com/furydotbot/solana-ui"><code>raze.bot</code></a></td>
       <td>Frontend interface by <strong>Raze.bot</strong> using Fury SDKs to interact with Solana tools and bots.</td>
     </tr>
   </tbody>
